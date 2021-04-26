@@ -51,8 +51,8 @@ public class Application implements CommandLineRunner
           		"when incident.Priority=1 then 120 - ( DATEDIFF(mi,incident.CreatedDate,getDate()) - (DATEDIFF(week,incident.CreatedDate,getDate())*2*24*60) ) \r\n" + 
           		"when incident.Priority=2 then 240 - ( DATEDIFF(mi,incident.CreatedDate,getDate()) - (DATEDIFF(week,incident.CreatedDate,getDate())*2*24*60) ) \r\n" + 
           		"when incident.Priority=3 then 480 - ( DATEDIFF(mi,incident.CreatedDate,getDate()) - (DATEDIFF(week,incident.CreatedDate,getDate())*2*24*60) ) \r\n" + 
-          		"when incident.Priority=4 then 1440 - ( DATEDIFF(mi,incident.CreatedDate,getDate()) - (DATEDIFF(week,incident.CreatedDate,getDate())*2*24*60) ) \r\n" + 
-          		"when incident.Priority=5 then 4320 - ( DATEDIFF(mi,incident.CreatedDate,getDate()) - (DATEDIFF(week,incident.CreatedDate,getDate())*2*24*60) ) \r\n" + 
+          		"when incident.Priority=4 then 2880 - ( DATEDIFF(mi,incident.CreatedDate,getDate()) - (DATEDIFF(week,incident.CreatedDate,getDate())*2*24*60) ) \r\n" + 
+          		"when incident.Priority=5 then 7200 - ( DATEDIFF(mi,incident.CreatedDate,getDate()) - (DATEDIFF(week,incident.CreatedDate,getDate())*2*24*60) ) \r\n" + 
           		"End as 'Resolution_SLA_Met_NotMet' \r\n" + 
           		"From    IncidentDim incident \r\n" + 
           		"JOIN    WorkItemDim workitem on incident.EntityDimKey = workItem.EntityDimKey  \r\n" + 

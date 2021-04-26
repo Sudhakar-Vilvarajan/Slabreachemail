@@ -52,11 +52,11 @@ public class Calculate {
 			 
 			if(rvo.getSeverity().get(i).equalsIgnoreCase("sev5"))
 			{
-				if(rvo.getTimebal().get(i)<=4320)
+				if(rvo.getTimebal().get(i)<=7200)
 				{
 					rvo.metflag.add("NOT BREACHED");
-					mm=String.valueOf((4320-rvo.getTimebal().get(i))% 60);
-					hh=String.valueOf((4320-rvo.getTimebal().get(i))/ 60);
+					mm=String.valueOf((7200-rvo.getTimebal().get(i))% 60);
+					hh=String.valueOf((7200-rvo.getTimebal().get(i))/ 60);
 					rvo.Remainingtime.add(hh+":"+mm);
 				}
 				else
@@ -67,11 +67,11 @@ public class Calculate {
 			}
 			else if (rvo.getSeverity().get(i).equalsIgnoreCase("sev4"))
 			{
-				if(rvo.getTimebal().get(i)<=1440)
+				if(rvo.getTimebal().get(i)<=2880)
 				{
 					rvo.metflag.add("NOT BREACHED");
-					mm=String.valueOf((1440-rvo.getTimebal().get(i))% 60);
-					hh=String.valueOf((1440-rvo.getTimebal().get(i))/ 60);
+					mm=String.valueOf((2880-rvo.getTimebal().get(i))% 60);
+					hh=String.valueOf((2880-rvo.getTimebal().get(i))/ 60);
 					rvo.Remainingtime.add(hh+":"+mm);
 				}
 				else
