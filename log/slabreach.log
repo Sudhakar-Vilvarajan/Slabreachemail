@@ -1,0 +1,399 @@
+2019-03-25 09:40:47-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-25 09:40:51-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-25 09:40:51-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-25 09:40:51-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-25 09:40:51-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-25 09:40:51-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-25 09:46:19-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-25 09:46:23-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-25 09:46:23-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-25 09:46:23-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-25 09:46:23-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-25 09:46:23-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-25 09:46:54-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-25 09:46:55-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-25 09:46:55-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-25 09:46:55-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-25 09:46:56-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-25 09:46:56-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-25 09:58:41-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-25 09:58:42-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-25 09:58:42-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-25 09:58:42-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-25 09:58:42-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-25 09:58:42-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-30 04:55:18-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 04:55:24-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 04:55:24-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 04:55:24-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 04:55:24-main--ERROR-com.jbhunt.mail.Sendmail:error happened while mailingjava.lang.NullPointerException
+2019-03-30 04:57:22-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 04:57:23-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 04:57:23-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 04:57:23-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 04:57:23-main--ERROR-com.jbhunt.mail.Sendmail:error happened while mailingjava.lang.NullPointerException
+2019-03-30 04:58:21-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 04:58:23-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 04:58:23-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 04:58:23-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 04:58:23-main--ERROR-com.jbhunt.mail.Sendmail:error happened while mailingjava.lang.NullPointerException
+2019-03-30 05:03:37-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:03:41-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:03:41-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:03:41-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:03:41-main--ERROR-com.jbhunt.mail.Sendmail:error happened while mailingjava.lang.NullPointerException
+2019-03-30 05:07:11-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:07:12-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:07:12-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:07:12-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:07:12-main--INFO -com.jbhunt.mail.Sendmail:to mail idnullsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,Sabarish.Sekhar@jbhunt.com,
+2019-03-30 05:07:13-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-30 05:07:13-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-30 05:08:44-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:08:45-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:08:45-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:08:45-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:08:45-main--ERROR-com.jbhunt.mail.Sendmail:error happened while mailingjava.io.FileNotFoundException: \\properties.txt (The specified path is invalid)
+2019-03-30 05:09:09-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:09:10-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:09:10-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:09:10-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:09:10-main--ERROR-com.jbhunt.mail.Sendmail:error happened while mailingjava.io.FileNotFoundException: \properties.txt (The system cannot find the file specified)
+2019-03-30 05:09:27-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:09:28-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:09:28-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:09:28-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:09:28-main--INFO -com.jbhunt.mail.Sendmail:to mail idnullsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,Sabarish.Sekhar@jbhunt.com,
+2019-03-30 05:09:29-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-30 05:09:29-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-30 05:11:37-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:11:39-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:11:39-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:11:39-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:11:39-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,Sabarish.Sekhar@jbhunt.com,
+2019-03-30 05:11:39-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-30 05:11:39-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-30 05:21:25-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:21:26-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:21:26-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:21:26-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:21:26-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,Sabarish.Sekhar@jbhunt.com,
+2019-03-30 05:21:27-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-30 05:21:27-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-30 05:23:14-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:23:15-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:23:15-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:23:15-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:23:15-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,Sabarish.Sekhar@jbhunt.com,
+2019-03-30 05:23:15-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-30 05:23:15-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-30 05:26:24-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:26:25-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:26:25-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:26:25-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:26:25-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,Sabarish.Sekhar@jbhunt.com,
+2019-03-30 05:26:25-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-30 05:26:25-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-03-30 05:28:10-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-03-30 05:28:13-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-03-30 05:28:13-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-03-30 05:28:13-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-03-30 05:28:13-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,Sabarish.Sekhar@jbhunt.com,
+2019-03-30 05:28:13-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-03-30 05:28:13-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-04-17 04:50:40-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-04-17 04:50:48-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-04-17 04:50:49-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-04-17 04:50:49-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-04-17 04:50:49-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,sudhakar.vilvarajan@cognizant.com,
+2019-04-17 04:50:49-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-04-17 04:50:49-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-04-17 04:55:45-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-04-17 04:55:47-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-04-17 04:55:47-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-04-17 04:55:47-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-04-17 04:55:47-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,Arunselvajeromias.Arulappan@cognizant.com,MadanMohan.Challa@cognizant.com,
+2019-04-17 04:55:47-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-04-17 04:55:47-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-04-19 06:10:05-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-04-19 06:10:07-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-04-19 06:10:07-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-04-19 06:10:07-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-04-19 06:10:07-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,Arunselvajeromias.Arulappan@cognizant.com,MadanMohan.Challa@cognizant.com,
+2019-04-19 06:10:08-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-04-19 06:10:08-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-04-22 06:26:02-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-04-22 06:26:05-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-04-22 06:26:05-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-04-22 06:26:05-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-04-22 06:26:06-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,Arunselvajeromias.Arulappan@cognizant.com,MadanMohan.Challa@cognizant.com,
+2019-04-22 06:26:06-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-04-22 06:26:06-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-04-24 04:22:04-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-04-24 04:22:10-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-04-24 04:22:10-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-04-24 04:22:10-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-04-24 04:22:10-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,Arunselvajeromias.Arulappan@cognizant.com,MadanMohan.Challa@cognizant.com,
+2019-04-24 04:22:10-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-04-24 04:22:10-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-06-02 08:30:46-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-06-02 08:30:52-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-06-02 08:30:52-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-06-02 08:30:52-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-06-02 08:30:52-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,Arunselvajeromias.Arulappan@cognizant.com,MadanMohan.Challa@cognizant.com,
+2019-06-02 08:30:53-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-06-02 08:30:53-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2019-06-28 06:06:14-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2019-06-28 06:06:17-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2019-06-28 06:06:17-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2019-06-28 06:06:17-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2019-06-28 06:06:17-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2019-06-28 06:06:18-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2019-06-28 06:06:18-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2020-08-31 22:33:14-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-08-31 22:39:13-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-08-31 22:39:17-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2020-08-31 22:42:02-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-08-31 22:42:06-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2020-08-31 23:08:59-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-08-31 23:09:03-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2020-08-31 23:11:50-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-08-31 23:11:54-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2020-08-31 23:25:04-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-08-31 23:25:07-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2020-08-31 23:25:07-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2020-08-31 23:25:07-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2020-08-31 23:25:07-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2020-08-31 23:25:07-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2020-08-31 23:25:07-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2020-08-31 23:27:12-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-08-31 23:27:15-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2020-08-31 23:27:15-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2020-08-31 23:27:15-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2020-08-31 23:27:15-main--INFO -com.jbhunt.mail.Sendmail:to mail idCognizant_PS@jbhunt.onmicrosoft.com,sudhakar.vilvarajan@jbhunt.com,Arunselvajeromias.Arulappan@cognizant.com,MadanMohan.Challa@cognizant.com,
+2020-08-31 23:27:15-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2020-08-31 23:27:15-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2020-09-04 03:56:34-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2020-09-04 03:56:38-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2020-09-04 03:56:38-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2020-09-04 03:56:38-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2020-09-04 03:56:38-main--INFO -com.jbhunt.mail.Sendmail:to mail idCognizant_PS@jbhunt.onmicrosoft.com,sudhakar.vilvarajan@jbhunt.com,Arunselvajeromias.Arulappan@cognizant.com,MadanMohan.Challa@cognizant.com,
+2020-09-04 03:56:39-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2020-09-04 03:56:39-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-20 12:03:20-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-20 12:03:24-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-20 12:03:24-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-20 12:03:24-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-20 12:03:24-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2021-01-20 12:03:25-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-20 12:03:25-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-20 12:45:12-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-20 12:45:18-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-20 12:45:18-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-20 12:45:18-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-20 12:45:18-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2021-01-20 12:45:19-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-20 12:45:19-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-20 12:56:58-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-20 12:57:02-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-20 12:57:02-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-20 12:57:02-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-20 12:57:02-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2021-01-20 12:57:02-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-20 12:57:02-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-21 05:44:49-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-21 05:44:53-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-21 05:44:53-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-21 05:44:53-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-21 05:44:53-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2021-01-21 05:44:54-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-21 05:44:54-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-21 06:36:44-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-21 06:36:53-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-21 06:36:53-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-21 06:36:53-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-21 06:36:53-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2021-01-21 06:36:53-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-21 06:36:53-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-21 06:37:41-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-21 06:37:47-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-21 06:37:47-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-21 06:37:47-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-21 06:37:47-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2021-01-21 06:37:48-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-21 06:37:48-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-21 06:40:17-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-21 06:40:22-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-21 06:40:22-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-21 06:40:22-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-21 06:40:22-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-21 06:40:23-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-21 06:40:23-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-21 11:08:53-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-21 11:08:58-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-21 11:08:58-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-21 11:08:58-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-21 11:08:58-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-21 11:08:58-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-21 11:08:58-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-25 07:00:29-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-25 07:00:37-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-25 07:00:37-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-25 07:00:37-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-25 07:00:37-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-25 07:00:37-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-25 07:00:37-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-26 14:06:57-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-26 14:07:05-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-26 14:07:05-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-26 14:07:05-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-26 14:07:05-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-26 14:07:06-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-26 14:07:06-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-27 12:41:36-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-27 12:41:40-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-27 12:41:40-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-27 12:41:40-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-27 12:41:40-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-27 12:41:41-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-27 12:41:41-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-28 05:15:28-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-28 05:15:34-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-28 05:15:34-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-28 05:15:34-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-28 05:15:34-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-28 05:15:35-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-28 05:15:35-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-28 05:22:35-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-28 05:22:39-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-28 05:22:39-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-28 05:22:39-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-28 05:22:39-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-28 05:22:40-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-28 05:22:40-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-28 05:26:15-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-28 05:26:18-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-28 05:26:18-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-28 05:26:18-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-28 05:26:18-main--INFO -com.jbhunt.mail.Sendmail:to mail idsudhakar.vilvarajan@jbhunt.com,
+2021-01-28 05:26:19-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-28 05:26:19-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-28 05:26:57-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-28 05:27:00-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-28 05:27:00-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-28 05:27:00-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-28 05:27:00-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-28 05:27:01-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-28 05:27:01-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-01-28 10:52:46-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-01-28 10:52:50-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-01-28 10:52:51-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-01-28 10:52:51-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-01-28 10:52:51-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-01-28 10:52:51-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-01-28 10:52:51-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-01 02:59:02-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-01 02:59:08-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-01 02:59:08-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-01 02:59:08-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-01 02:59:08-main--INFO -com.jbhunt.mail.Sendmail:to mail idPS_MKT_OPR_ICS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-01 02:59:09-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-01 02:59:09-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-01 03:05:14-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-01 03:05:19-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-01 03:05:19-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-01 03:05:19-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-01 03:05:19-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-01 03:05:20-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-01 03:05:20-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-01 07:02:34-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-01 07:02:40-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-01 07:02:40-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-01 07:02:40-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-01 07:02:40-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-01 07:02:40-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-01 07:02:40-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-01 11:58:08-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-01 11:58:11-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-01 11:58:11-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-01 11:58:11-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-01 11:58:11-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-01 11:58:12-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-01 11:58:12-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-02 10:50:08-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-02 10:50:13-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-02 10:50:13-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-02 10:50:13-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-02 10:50:13-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-02 10:50:14-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-02 10:50:14-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-03 04:02:33-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-03 04:02:40-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-03 04:02:40-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-03 04:02:40-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-03 04:02:40-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-03 04:02:41-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-03 04:02:41-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-03 12:45:14-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-03 12:45:18-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-03 12:45:18-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-03 12:45:18-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-03 12:45:18-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-03 12:45:19-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-03 12:45:19-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-04 03:58:49-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-04 03:58:52-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-04 03:58:52-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-04 03:58:52-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-04 03:58:52-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-04 03:58:53-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-04 03:58:53-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-04 11:26:05-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-04 11:26:11-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-04 11:26:11-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-04 11:26:11-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-04 11:26:11-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-04 11:26:11-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-04 11:26:11-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-05 03:03:25-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-05 03:03:30-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-05 03:03:30-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-05 03:03:30-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-05 03:03:30-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-05 03:03:30-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-05 03:03:30-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-10 04:09:47-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-10 04:09:51-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-10 04:09:51-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-10 04:09:51-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-10 04:09:51-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-10 04:09:52-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-10 04:09:52-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-11 04:08:20-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-11 04:08:27-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-11 04:08:27-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-11 04:08:27-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-11 04:08:27-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-11 04:08:28-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-11 04:08:28-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-11 07:31:06-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-11 07:31:10-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-11 07:31:10-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-11 07:31:10-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-11 07:31:10-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-11 07:31:11-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-11 07:31:11-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-12 04:52:52-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-12 04:52:57-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-12 04:52:57-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-12 04:52:57-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-12 04:52:57-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-12 04:52:58-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-12 04:52:58-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
+2021-02-13 11:42:42-main--INFO -com.jbhunt.Slabreachemail.Application:Program Started
+2021-02-13 11:42:47-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation started
+2021-02-13 11:42:47-main--INFO -com.jbhunt.Slabreachemail.Application:Calculation finished
+2021-02-13 11:42:47-main--INFO -com.jbhunt.mail.Sendmail:Send Mail
+2021-02-13 11:42:47-main--INFO -com.jbhunt.mail.Sendmail:to mail idJBH_PS@jbhunt.com,Cognizant.Backoffice.Support@jbhunt.com,sudhakar.vilvarajan@jbhunt.com,
+2021-02-13 11:43:03-main--INFO -com.jbhunt.mail.Sendmail:email sent successfully
+2021-02-13 11:43:03-main--INFO -com.jbhunt.mail.Sendmail:Mail Sent
